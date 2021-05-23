@@ -1,0 +1,15 @@
+{
+  "questionTitle": "Bienvenido",
+  "questionBody": "En Caral hay 7 grandes pirámides y 2 templos divididos en Sector Superior y Sector Inferior. Siendo el principal y el destino de este tour siendo el principal del Sector Superior, la Gran Pirámide. \n \n ¿Quieres iniciar el recorrido?",
+  "questionOption1": "No",
+  "questionOption2": "Si",
+
+  "menuTitle": "Configuraciones",
+  "menuVolumeLabel": "Volumen",
+  "menuLanguageLabel": "Lenguaje",
+  "menuLanguageOptEs": "Español",
+  "menuLanguageOptEn": "Ingles",
+  "menuBtnReturnLabel": "Retornar al recorrido",
+  "menuBtnLeaveTourLabel": "Salir del recorrido",
+  "instruction": "Continuar (Presionar W o S)"
+}
